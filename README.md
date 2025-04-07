@@ -6,7 +6,7 @@ This project presents a rigorous analytical study of air traffic network restruc
 ---
 
 ### 📌 Overview
-This repository focuses on extracting and analyzing airport-to-airport flight connections for two representative weeks in September 2019 and 2024. Using SQL queries and network science, we model these connections as directed weighted graphs and measure airport importance using PageRank and Betweenness Centrality.
+This repository focuses on extracting and analyzing airport-to-airport flight connections for two representative weeks in September 2019 and 2024. Using network science, we model these connections as directed weighted graphs and measure airport importance using PageRank and Betweenness Centrality.
 
 ---
 
