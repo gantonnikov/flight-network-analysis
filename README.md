@@ -32,14 +32,6 @@ This repository focuses on extracting and analyzing airport-to-airport flight co
 
 ---
 
-### 📊 Outputs
-- Fully reproducible notebook: `notebooks/network_analysis.ipynb`
-- Interactive dashboards in `dashboards/`
-- Comparative metrics and ranked lists by year
-- Clean dataset versions stored in `data/`
-
----
-
 ### 📚 References
 - [OpenSky Network](https://opensky-network.org/)
 - [OpenFlights Airport Data](https://github.com/jpatokal/openflights)
