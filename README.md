@@ -45,9 +45,3 @@ This repository focuses on extracting and analyzing airport-to-airport flight co
 - [OpenFlights Airport Data](https://github.com/jpatokal/openflights)
 - [NetworkX Library](https://networkx.org/)
 - [Seaborn](https://seaborn.pydata.org/), [Folium](https://python-visualization.github.io/folium/)
-
----
-
-**Network Analysis by:** Grigory Antonnikov  
-**Supervisor:** Professor Carlos J. Costa  
-**Institution:** ISEG, Lisbon University, 2024/2025
