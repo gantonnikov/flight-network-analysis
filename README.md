@@ -10,17 +10,7 @@ This repository focuses on extracting and analyzing airport-to-airport flight co
 
 ---
 
-### 📂 Repository Contents
-```
-project/
-├── data/                  # Cleaned CSV datasets (2019, 2024)
-├── sql/                   # SQL queries for OpenSky extraction
-├── notebooks/             # Main Jupyter Notebook for full analysis
-├── dashboards/            # Interactive HTML visualizations (Folium)
-├── figures/               # PNG charts and treemaps
-├── report/                # Final written report
-└── README.md              # This file
-```
+[🔗 View Dashboard](https://gantonnikov.github.io/flight-network-analysis/network_analysis_tabs.html)
 
 ---
 
